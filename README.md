@@ -24,7 +24,7 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Estagiário de TI na BREITENER ENERGÉTICA. </p>
 <p> - 👨‍🎓 Formado em Técnico em Informática e cursando Engenharia da Computação</p>
-<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQL e Ionic. </p>
+<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQL, Ionic, Node e React. </p>
 <p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
 </div>
@@ -47,6 +47,10 @@
     <img height="40" src="https://img.icons8.com/color/48/typescript.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/48/nodejs.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 </div>
