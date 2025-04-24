@@ -1,4 +1,4 @@
-# Oi, me chamo Fellipe 👋
+# Oi, me chamo Fellipe <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Sobre mim
 
