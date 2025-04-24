@@ -17,7 +17,7 @@
 </p>
 
 
-## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Fellipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
@@ -26,7 +26,7 @@
 <p> - 👨‍🎓 Formado em Técnico em Informática </p>
 <p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQl e Ionic. </p>
 <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
-<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
+<p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
 </div>
 
