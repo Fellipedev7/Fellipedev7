@@ -22,10 +22,9 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Formado em Técnico em Informática </p>
-<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQl e Ionic. </p>
-<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
+<p> - 👨‍💻 Estagiário de TI na BREITENER ENERGÉTICA. </p>
+<p> - 👨‍🎓 Formado em Técnico em Informática e cursando Engenharia da Computação</p>
+<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQL e Ionic. </p>
 <p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
 </div>
