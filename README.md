@@ -1,3 +1,18 @@
+# Oi, me chamo Fellipe 👋
+
+### Sobre mim
+
+💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+
+🎓 Eu estudo Engenharia da Computação.
+
+👩‍💻 Atualmente eu trabalho como Estagiário @ BREITENER ENERGÉTICA.
+
+✒️ Eu gosto de no meu tempo livre de ver filmes ou jogar com meus amigos.
+
+🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQL, Ionic, Node e React.
+
+
 </br>
 </br>
 <p align="center">
@@ -15,19 +30,6 @@
     />
   </a>
 </p>
-
-
-## Olá, eu sou o Fellipe! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### Sobre mim
-<div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Estagiário de TI na BREITENER ENERGÉTICA. </p>
-<p> - 👨‍🎓 Formado em Técnico em Informática e cursando Engenharia da Computação</p>
-<p> - 🎯 Interesse: Java, API , HTML, CSS, JavaScript, Typescript, Angular, AWS, MySQL, Ionic, Node e React. </p>
-<p> - 🎮 Gosta de jogar Valorant? É só chamar, vamos subir de patente juntos ou não hehehe </p>
-  
-</div>
 
 
 ## Minhas skills :nerd_face:
